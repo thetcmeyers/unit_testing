@@ -1,0 +1,1 @@
+Both files work, however the unit testing wants to run the calc loop once in order to beign the test. You can speed up this process by netering and validating two random numbers and immediately quitting the program
